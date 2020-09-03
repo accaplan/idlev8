@@ -16,9 +16,9 @@ module.exports = {
     )
   },
   siteMetadata: {
-    title: `Midway`,
-    description: `Gatsby + Sanity + Shopify Repo`,
-    author: `iamkevingreen`,
+    title: `Idle Hours Co.`,
+    description: `Consciously spending free time`,
+    author: `Ash Caplan`,
     password: true
   },
   plugins: [
@@ -90,7 +90,7 @@ module.exports = {
         ]
       }
     },
-  
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
